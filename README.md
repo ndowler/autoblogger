@@ -12,11 +12,11 @@ This workflow uses a multi-agent system to research topics and write high-qualit
 
 ## Features
 
-- ✍️ **Professional but Approachable Tone**: Matches your existing article style
-- 🔍 **Optional Web Research**: Drop in a URL to research specific sources
-- 🎯 **Customizable**: Set category, tags, and additional requirements
-- 📝 **MDX Output**: Generates properly formatted articles with frontmatter
-- 🚀 **CLI Interface**: Easy command-line usage
+- **Professional but Approachable Tone**: Matches your existing article style
+-  **Optional Web Research**: Drop in a URL to research specific sources
+-  **Customizable**: Set category, tags, and additional requirements
+-  **MDX Output**: Generates properly formatted articles with frontmatter
+-  **CLI Interface**: Easy command-line usage
 
 ## Setup
 
